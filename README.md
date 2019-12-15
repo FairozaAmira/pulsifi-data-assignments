@@ -50,7 +50,8 @@ Note that Task 2 is done in Google Colaboratory.
 ### Installation
  
 1. Clone the repo
-```git clone https://github.com/FairozaAmira/pulsifi-data-assignments.git
+```
+git clone https://github.com/FairozaAmira/pulsifi-data-assignments.git
 ```
 2. Download the data from [here](https://github.com/FairozaAmira/pulsifi-data-assignments/blob/master/test.csv) for Task 2.
 4. Run all notebooks. Task 2 is done in Google Colaboratory. The data should be put insided the Google Drive folder, preferable same folder with the notebooks and the drive should be mounted first.
