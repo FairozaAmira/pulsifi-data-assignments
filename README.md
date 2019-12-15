@@ -4,7 +4,7 @@
   <h3 align="center">Data Assignments from Pulsifi Sdn Bhd</h3>
 
   <p align="center">
-    Web scrapind and linear regression model problems.
+    Web scraping and linear regression model problems.
   </p>
 </p>
 
